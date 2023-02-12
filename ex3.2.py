@@ -1,8 +1,10 @@
 """
 1. Modificate do_twice in modo che accetti due argomenti, un oggetto funzione e un valore, 
 e che chiami la funzione due volte passando il valore come argomento.
+
 2. Copiate nel vostro script la definizione di print_twice che abbiamo visto nel corso di
 questo capitolo.
+
 3. Usate la versione modificata di do_twice per chiamare print_twice per due volte,
 passando spam come argomento.
 """
